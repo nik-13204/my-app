@@ -1,0 +1,134 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Guitar Fundamentals",
+      "slug": "guitar-fundamentals",
+      "description": "Learn the basics of playing guitar with our comprehensive beginner's course.",
+      "price": 99.99,
+      "instructor": "John Doe",
+      "isFeatured": true,
+      "image": "/courses/guitar.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Piano for Beginners",
+      "slug": "piano-for-beginners",
+      "description": "Start your journey into piano playing with this beginner-friendly course.",
+      "price": 89.99,
+      "instructor": "Jane Smith",
+      "isFeatured": false,
+      "image": "/courses/piano.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Music Theory Essentials",
+      "slug": "music-theory-essentials",
+      "description": "Understand the core concepts of music theory to boost your skills.",
+      "price": 59.99,
+      "instructor": "Mark Johnson",
+      "isFeatured": true,
+      "image": "/courses/theory.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Advanced Drumming",
+      "slug": "advanced-drumming",
+      "description": "Enhance your drumming techniques and master complex rhythms.",
+      "price": 109.99,
+      "instructor": "Lara Cruz",
+      "isFeatured": true,
+      "image": "/courses/drums.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Vocal Training Masterclass",
+      "slug": "vocal-training-masterclass",
+      "description": "Learn how to control and improve your singing voice professionally.",
+      "price": 79.99,
+      "instructor": "Emily Davis",
+      "isFeatured": false,
+      "image": "/courses/vocals.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Electronic Music Production",
+      "slug": "electronic-music-production",
+      "description": "Create electronic music using digital audio workstations and tools.",
+      "price": 129.99,
+      "instructor": "David Kim",
+      "isFeatured": true,
+      "image": "/courses/electronic.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Jazz Improvisation",
+      "slug": "jazz-improvisation",
+      "description": "Master the art of improvisation in jazz and blues genres.",
+      "price": 69.99,
+      "instructor": "Miles Thompson",
+      "isFeatured": false,
+      "image": "/courses/jazz.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Songwriting Workshop",
+      "slug": "songwriting-workshop",
+      "description": "Learn how to write powerful lyrics and memorable melodies.",
+      "price": 74.99,
+      "instructor": "Sara Lee",
+      "isFeatured": true,
+      "image": "/courses/songwriting.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Music Business 101",
+      "slug": "music-business-101",
+      "description": "Explore how the music industry works and how to market your music.",
+      "price": 49.99,
+      "instructor": "Tom Richards",
+      "isFeatured": false,
+      "image": "/courses/business.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Sound Design Basics",
+      "slug": "sound-design-basics",
+      "description": "Understand how to design sound for games, film, and music.",
+      "price": 94.99,
+      "instructor": "Nina Patel",
+      "isFeatured": true,
+      "image": "/courses/sounddesign.jpg"
+    },
+    {
+      "id": 11,
+      "title": "Ukulele for Everyone",
+      "slug": "ukulele-for-everyone",
+      "description": "A fun and easy course for learning how to play the ukulele.",
+      "price": 39.99,
+      "instructor": "Carlos Mendez",
+      "isFeatured": false,
+      "image": "/courses/ukulele.jpg"
+    },
+    {
+      "id": 12,
+      "title": "Film Scoring Techniques",
+      "slug": "film-scoring-techniques",
+      "description": "Compose music that enhances visuals in movies and games.",
+      "price": 119.99,
+      "instructor": "Olivia White",
+      "isFeatured": true,
+      "image": "/courses/filmscore.jpg"
+    },
+    {
+      "id": 13,
+      "title": "Live Performance Tips",
+      "slug": "live-performance-tips",
+      "description": "Prepare yourself to perform confidently in front of live audiences.",
+      "price": 64.99,
+      "instructor": "Ben Harper",
+      "isFeatured": false,
+      "image": "/courses/performance.jpg"
+    }
+  ]
+}
